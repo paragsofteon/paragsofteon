@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/profile-views?username=ParagChandraRai&theme=tokyonight&hide_border=true" />
+  <img src="https://rvpriy.netlify.app/api/cards/profile-views?username=paragsofteon&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -57,13 +57,13 @@
 # GitHub Analytics
 
 <div align="center">
-  <img src="https://rvpriy.netlify.app/api/streak?username=ParagChandraRai&theme=iphone&glow=true&shine=true&glow_strength=0.85" width="100%" />
+  <img src="https://rvpriy.netlify.app/api/streak?username=paragsofteon&theme=iphone&glow=true&shine=true&glow_strength=0.85" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://rvpriy.netlify.app/api/stats?username=ParagChandraRai&theme=github_dark" />
+  <img src="https://rvpriy.netlify.app/api/stats?username=paragsofteon&theme=github_dark" />
   &nbsp;
-  <img src="https://rvpriy.netlify.app/api/languages?username=ParagChandraRai&theme=radical" />
+  <img src="https://rvpriy.netlify.app/api/languages?username=paragsofteon&theme=radical" />
 </div>
 
 ---
@@ -71,7 +71,7 @@
 # Contribution Activity
 
 <div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/activity-graph?username=ParagChandraRai&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://rvpriy.netlify.app/api/cards/activity-graph?username=paragsofteon&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -79,11 +79,11 @@
 # GitHub Insights
 
 <div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/profile-details?username=ParagChandraRai&theme=tokyonight" width="100%" />
+  <img src="https://rvpriy.netlify.app/api/cards/profile-details?username=paragsofteon&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/stats?username=ParagChandraRai&theme=tokyonight" />
+  <img src="https://rvpriy.netlify.app/api/cards/stats?username=paragsofteon&theme=tokyonight" />
 </div>
 
 ---
@@ -91,5 +91,5 @@
 # GitHub Achievements
 
 <div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/trophies?username=ParagChandraRai&theme=tokyonight" />
+  <img src="https://rvpriy.netlify.app/api/cards/trophies?username=paragsofteon&theme=tokyonight" />
 </div>
