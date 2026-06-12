@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm PARAG CHANDRA RAI</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Product Engineer</h3>
 
 <div align="center">
   <img src="https://rvpriy.netlify.app/api/cards/profile-views?username=paragsofteon&theme=tokyonight&hide_border=true" />
 </div>
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
